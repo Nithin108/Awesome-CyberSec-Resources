@@ -56,6 +56,7 @@ Repository | Description
 [**SayCheese**](https://github.com/hangetzzu/saycheese)    | Take webcam shots from target just sending a malicious link.
 [**QR Code Jacking**](https://github.com/cryptedwolf/ohmyqr)    | Port Forwarding using Ngrok or Serveo.
 [**BlackPhish**](https://github.com/iinc0gnit0/BlackPhish)    | Super lightweight with many features and blazing fast speeds.
+[**Aegis**](https://github.com/rafael-santiago/aegis)         | Use Aegis as an anti-debugging mitigation or as a debugging facility
 
 
 
